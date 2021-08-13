@@ -18,8 +18,7 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nekurone&show_icons=true&theme=gruvbox&locale=en" alt="nekurone" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nekurone&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="nekurone" /></p>![octocat-anime](https://user-images.githubusercontent.com/11583852/129426657-160589f5-d864-48f2-a2a8-47a2c5e02c8b.gif)
-![octocat-anime](https://user-images.githubusercontent.com/11583852/129426661-40ad7776-8bfb-45ca-a807-95f53a8d2edd.gif)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nekurone&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="nekurone" /></p>
 
 <h3 align="left"> Now Playing:</h3>
 
