@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Flo</h1>
 <h3 align="left">I sometimes make useful things.</h3>
 <img align='right' src='https://i.imgur.com/MPHf49H.gif' width='200"'>
+
 - 🔭 I’m currently working on [pendfetch](https://github.com/Nekurone/pendfetch)
 
 - 🌱 I’m currently learning **Haskell**
