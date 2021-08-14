@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Flo</h1>
-<h3 align="left">I sometimes make useful things.</h3>
-<img align='right' src='https://i.imgur.com/MPHf49H.gif' width='200"'>
+<h1 align="center">-👋 Hi, I'm Flo-</h1>
+<h3 align="center">I sometimes make useful things.</h3>
 
-- 🔭 I’m currently working on [pendfetch](https://github.com/Nekurone/pendfetch)
+<img align='right' src='https://i.imgur.com/MPHf49H.gif' width='400"'>
 
-- 🌱 I’m currently learning **Haskell**
-
-- 💬 Ask me about **trivia facts!**
-
-- 📫 How to reach me **florence@xorhash.com**
+<li>
+  <b>🔭 Current Project:</b> <a href="https://github.com/Nekurone/pendfetch">pendfetch</a></li>
+<li>
+  <b>🌱 Currently Learning:</b> Haskell</li>
+<li>
+  <b>📫 Contact:</b> florence@xorhash.com</li>
 
 
 <h3 align="left">Languages and Tools:</h3>
