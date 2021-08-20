@@ -4,7 +4,7 @@
 <img align='right' src='https://i.imgur.com/MPHf49H.gif' width='400"'>
 
 <li>
-  <b>🔭 Current Project:</b> <a href="https://github.com/Nekurone/pendfetch">pendfetch</a></li>
+  <b>🔭 Current Project:</b> <a href="https://github.com/Nekurone/Flobot">Flobot</a></li>
 <li>
   <b>🌱 Currently Learning:</b> Haskell</li>
 <li>
