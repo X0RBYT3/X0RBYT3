@@ -1,4 +1,4 @@
-<h1 align="center">-👋 Hi, I'm Flo-</h1>
+<h1 align="center">-👋 Hi, I'm Nekurone-</h1>
 <h3 align="center">I sometimes make useful things.</h3>
 
 <img align='right' src='https://i.imgur.com/MPHf49H.gif' width='400"'>
@@ -8,7 +8,7 @@
 <li>
   <b>🌱 Currently Learning:</b> Haskell</li>
 <li>
-  <b>📫 Contact:</b> florence@xorhash.com</li>
+  <b>📫 Contact:</b> admin@xorhash.com</li>
 
 
 <h3 align="left">Languages and Tools:</h3>
