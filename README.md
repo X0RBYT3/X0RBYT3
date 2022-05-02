@@ -4,9 +4,9 @@
 <img align='right' src='https://i.imgur.com/MPHf49H.gif' width='400"'>
 
 <li>
-  <b>🔭 Current Project:</b> <a href="https://github.com/Nekurone/Shinobu-rewrite">Shinobu Rewrite</a></li>
+  <b>🔭 Current Project:</b> <a href="https://github.com/Nekurone/Sakamoto">Sakamoto</a></li>
 <li>
-  <b>🌱 Currently Learning:</b> Haskell</li>
+  <b>🌱 Currently Learning:</b>Rust</li>
 <li>
   <b>📫 Contact:</b> admin@xorhash.com</li>
 
