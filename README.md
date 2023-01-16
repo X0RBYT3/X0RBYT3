@@ -1,5 +1,5 @@
-<h1 align="center">-👋 Hi, I'm Nekurone-</h1>
-<h3 align="center">I sometimes make useful things.</h3>
+<h1 align="center">-👋 Hi, I'm X0RBYT3-</h1>
+<h3 align="center">Breaking into Visual Design</h3>
 
 <img align='right' src='https://i.imgur.com/MPHf49H.gif' width='400"'>
 
@@ -8,7 +8,7 @@
 <li>
   <b>🌱 Currently Learning:</b>Rust</li>
 <li>
-  <b>📫 Contact:</b> admin@xorhash.com</li>
+  <b>📫 Contact:</b> admin@x0rbyt3.com</li>
 
 
 <h3 align="left">Languages and Tools:</h3>
