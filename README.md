@@ -17,9 +17,7 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=X0RBYT3&show_icons=true&theme=gruvbox&locale=en" alt="nekurone" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=X0RBYT3&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="X0RBYT3" /></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=X0RBYT3&show_icons=true&theme=gruvbox&locale=en" alt="X0RBYT3" /></p>
 <h3 align="left"> Now Playing:</h3>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=71rvj7faw9ww94qcdsqygkfy1&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=71rvj7faw9ww94qcdsqygkfy1&redirect=true)
